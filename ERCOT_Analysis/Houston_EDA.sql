@@ -1,3 +1,6 @@
+-- Data Source: https://google.com
+-- Target Table: bigquery-publi-data.noaa_gsod.gsod2025
+
 -- 1st Query: Exploratory Data Analysis (EDA) of Houston ERCOT hub weather tracking stations for the month of August in 2025 
 
 SELECT
